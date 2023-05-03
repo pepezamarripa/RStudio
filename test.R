@@ -1,2 +1,2 @@
-print ("No puedo conectar R con GitHub")
-print("Ya me pude conectar: Pepe 1 - GitHub 0")
+print ("This is my first line of code done with RStudio")
+print("And it's connected to GitHub")
